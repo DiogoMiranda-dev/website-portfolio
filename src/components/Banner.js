@@ -26,22 +26,22 @@ const Banner = () => {
                 <p>{state.text}</p>
                 <ul className="header__ul">
                   <li>
-                      <a href="https://www.instagram.com/diogomiranda.dev/" target="_blank"><FaInstagram className="headerIcon" /></a>
+                      <a href="https://www.instagram.com/diogomiranda.dev/" target="__blank"><FaInstagram className="headerIcon" /></a>
                   </li>
                   <li>
-                      <a href="https://github.com/DiogoMiranda-dev" target="_blank"><FaGithub className="headerIcon" /></a>
+                      <a href="https://github.com/DiogoMiranda-dev" target="__blank"><FaGithub className="headerIcon" /></a>
                   </li>
                   <li>
-                      <a href="https://www.linkedin.com/in/diogo-miranda-2233657a/" target="_blank"><FaLinkedin  className="headerIcon" /></a>
+                      <a href="https://www.linkedin.com/in/diogo-miranda-2233657a/" target="__blank"><FaLinkedin className="headerIcon" /></a>
                   </li>
                   <li>
-                      <a href="https://www.facebook.com/diogo.s.miranda.5/?viewas=100000686899395" target="_blank"><FaFacebookF className="headerIcon" /></a>
+                      <a href="https://www.facebook.com/diogo.s.miranda.5/?viewas=100000686899395" target="__blank"><FaFacebookF className="headerIcon" /></a>
                   </li>
                   <li>
-                      <a href="https://br.pinterest.com/diogomiranda_dev/_saved/" target="_blank"><FaPinterest className="headerIcon" /></a>
+                      <a href="https://br.pinterest.com/diogomiranda_dev/_saved/" target="__blank"><FaPinterest className="headerIcon" /></a>
                   </li>
                   <li>
-                      <a href="https://app.rocketseat.com.br/me/diogosminfor-1602803876283" target="_blank"><FaRocket className="headerIcon" /></a>
+                      <a href="https://app.rocketseat.com.br/me/diogosminfor-1602803876283" target="__blank"><FaRocket className="headerIcon" /></a>
                   </li>
                 </ul>
               </div>
