@@ -2,12 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# website-portfolio
+Site desenvolvimento para mostrar o meu trabalho e quais habilidades e conhecimentos possuo  
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-# website-portfolio
-Site desenvolvimento para mostrar o meu trabalho e quais habilidades e conhecimentos possuo  
 
 ### `npm start`
 
